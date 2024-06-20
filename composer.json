@@ -23,7 +23,7 @@
   "prefer-stable": true,
   "extra": {
     "flarum-extension": {
-      "title": "Amharic",
+      "title": "Amharic (አማርኛ)",
       "category": "language",
       "info": {
         "website": "https://github.com/dhtml",
