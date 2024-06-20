@@ -16,9 +16,6 @@
             "role": "Developer"
         }
   ],
-  "require": {
-    "flarum/core": "^1.8"
-  },
   "minimum-stability": "dev",
   "prefer-stable": true,
   "extra": {
